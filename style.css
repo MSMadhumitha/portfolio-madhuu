@@ -386,9 +386,10 @@ background-position:0% 50%;
 
 }
 .social-icons{
-    margin-top:30px;
+    margin-top:25px;
+    display:flex;
+    gap:18px;
 }
-
 .social-icons a{
     display:inline-flex;
     justify-content:center;

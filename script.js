@@ -169,11 +169,11 @@ var typed = new Typed(".typing", {
 
         "Aspiring Software Engineer",
 
-        "C++ Learner",
+        "C++ Programmer",
 
-        "Hackathon Participant",
+        "Problem solver",
 
-        "Future Software Developer"
+        "Python Programmer"
 
     ],
 
