@@ -432,3 +432,11 @@ background-position:0% 50%;
 body{
     overflow-x:hidden;
 }
+.visitor-count{
+    margin-top:20px;
+    text-align:center;
+}
+
+.visitor-count img{
+    height:28px;
+}
