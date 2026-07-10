@@ -440,3 +440,14 @@ body{
 .visitor-count img{
     height:28px;
 }
+.contact-buttons{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    margin-top:30px;
+    flex-wrap:wrap;
+}
+
+.contact-buttons a{
+    text-decoration:none;
+}
